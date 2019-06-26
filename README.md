@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/mtalreja2013/mtalrejaProject/_apis/build/status/mtalreja.pipelines-java?branchName=master)](https://dev.azure.com/mtalreja2013/mtalrejaProject/_build/latest?definitionId=7&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
